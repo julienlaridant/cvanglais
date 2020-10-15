@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgba(235, 215, 189, 0.829);
+}
+.center{
+    text-align: center;
+  padding-left: 120px;
+}
+
+p
+{  
+padding-left: 70px;
+max-width: 65%;
+font-family:cursive;
+   
+}
+
+h1
+{
+    text-decoration: underline;
+     margin-left: 20px;
+    color: rgba(28, 182, 23, 0.644);
+}
